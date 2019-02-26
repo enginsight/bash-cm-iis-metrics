@@ -2,7 +2,11 @@
 #   # #   Enginsight GmbH
 # # # #   Geschäftsführer: Mario Jandeck, Eric Range
 # #   #   Hans-Knöll-Straße 6, 07745 Jena
-  # 
+  #
+  
+# PLEASE READ ME!
+# You need to install following feature on your windows machine to use this plugin:
+# "install-windowsfeature web-common-http"
 
 $Counters = @(
 '\Web service(_total)\bytes sent/sec',
